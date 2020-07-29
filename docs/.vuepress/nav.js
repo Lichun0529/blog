@@ -4,10 +4,11 @@ module.exports = [
     {
         text: 'Projects',
         items: [//顶部二级标题
+         {text: 'Vue+Node后台管理系统', link: '/project/bms/'},
             {text: 'QuickSearch', link: '/project/quicksearch-chrome/'},
             {text: '个人Blog', link: '/project/blog/'},
             {text: '民无忧', link: '/project/minwuyou/'},
-			{text: '极简新闻', link: '/project/news/'},
+			// {text: '极简新闻', link: '/project/news/'},
             {text: '头条新闻', link: '/project/wangyinews/'},
         ]
     },
