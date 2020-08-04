@@ -35,6 +35,8 @@ publish: false
 ### 项目经历
 <br>
 
++ <a href="../project/bms">Vue+Node 后台管理系统（Web+后端）</a>
+
 + <a href="../project/minwuyou">民无忧——医疗生活服务APP（小程序）</a>
 + <a href="../project/quicksearch-chrome">QuickSearch（Chrome扩展）</a>
 + <a href="../project/blog">个人博客（Web+H5）</a>
