@@ -23,6 +23,7 @@ module.exports = [
     {
         text: 'Articales',
 		items: [
+            {text: '使用JS实现一个xml解析器（不使用DOMParser）', link: '/artical/xmlParser.md'},
             {text: '关于JavaScript中的面向对象思想', link: '/artical/OOPinJavaScript.md'},
             {text: '如何不借助脚手架从零搭建Vue项目？', link: '/artical/CreateVueProjectFromZero.md'},
             {text: '如何使用Vue.js开发Chrome插件？', link: '/artical/CreateChromeExtensionsWithVue.md'},
