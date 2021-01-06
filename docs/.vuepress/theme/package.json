@@ -24,7 +24,7 @@
     "@vuepress/plugin-active-header-links": "1.4.1",
     "@vuepress/plugin-nprogress": "1.4.1",
     "@vuepress/plugin-search": "1.4.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^2.5.7",
     "docsearch.js": "^2.5.2",
     "lodash": "^4.17.15",
