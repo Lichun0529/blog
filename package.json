@@ -16,7 +16,7 @@
     "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
     "@vuepress/plugin-medium-zoom": "^1.4.0",
     "vuepress": "^1.4.0",
-    "vuepress-theme-reco": "^1.4.2"
+    "vuepress-theme-reco": "^1.6.14"
   },
   "dependencies": {
     "@vssue/api-github-v3": "^1.4.3",
