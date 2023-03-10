@@ -11,10 +11,6 @@ publish: false
 
 + 李淳
 + 27岁
-+ 15611208894
-+ 846088113@qq.com
-+ [GitHub](https://github.com/Lichun0529)
-+ <a href="https://gitee.com/li_chun529/blog/blob/master/docs/aboutme/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%913%E5%B9%B4-%E6%9D%8E%E6%B7%B3-15611208894.pdf" target="_blank">PDF版简历</a>
 
 
 ### 技术栈

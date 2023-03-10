@@ -4,12 +4,12 @@ module.exports = [
     {
         text: 'Projects',
         items: [//顶部二级标题
-            {text: 'Vue+Node后台管理系统', link: '/project/bms/'},
-            {text: 'QuickSearch', link: '/project/quicksearch-chrome/'},
-            {text: '个人Blog', link: '/project/blog/'},
-            {text: '民无忧', link: '/project/minwuyou/'},
-			// {text: '极简新闻', link: '/project/news/'},
-            {text: '头条新闻', link: '/project/wangyinews/'},
+            {text: 'Chrome快速搜索插件', link: 'https://github.com/Lichun0529/QuickSearch-chrome'},
+            {text: '基于VuePress的静态blog', link: 'https://github.com/Lichun0529/blog'},
+            {text: 'Vue+Express后台管理系统', link: 'https://github.com/Lichun0529/BMS-backstage'},
+            {text: 'V站Chrome插件', link: 'https://github.com/Lichun0529/v2ex-comment-helper'},
+            {text: '基于Vue.js开发Chrome扩展的项目模板', link: 'https://github.com/Lichun0529/Chrome-ex-vue-Demo'}
+            
         ]
     },
     {
