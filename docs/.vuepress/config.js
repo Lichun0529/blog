@@ -29,5 +29,8 @@ module.exports = {
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页 ！',
         
+    },
+    chainWebpack (config) {
+        config.resolve.alias.set('core-js/library/fn', 'core-js/features');
     }
 }
