@@ -28,10 +28,11 @@ module.exports = [
             {text: '如何不借助脚手架从零搭建Vue项目？', link: '/artical/CreateVueProjectFromZero.md'},
             {text: '如何使用Vue.js开发Chrome插件？', link: '/artical/CreateChromeExtensionsWithVue.md'},
             {text: 'Chrome扩展可以对浏览器做哪些事情？', link: '/artical/Chrome-Extensions-API.md'},
-            {text: 'Learn How To Learn学习笔记(1)——拖延症的成因及解决方法', link: '/artical/LearnHowToLearn-1.md'},
+            // {text: 'Learn How To Learn学习笔记(1)——拖延症的成因及解决方法', link: '/artical/LearnHowToLearn-1.md'},
             {text: 'Chrome扩展如何跨域？', link: '/artical/ChromeExtensionsCROS.md'},
             {text: '如何一键打包+推送Vuepress博客？', link: '/artical/Vuepress-AutoPush.md'},
             {text: '如何在axios中使用JSONP？', link: '/artical/UseJsonpInAxios.md'},
+            {text: '基于Travis CI实现Github Pages自动部署 ', link: '/artical/TravisCI.md'}
         ]
     },
     {
