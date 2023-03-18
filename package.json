@@ -16,10 +16,10 @@
     "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
     "@vuepress/plugin-medium-zoom": "^1.4.0",
     "vuepress": "^1.4.0",
-    "vuepress-theme-reco": "^1.4.2"
+    "vuepress-theme-reco": "^1.6.17"
   },
   "dependencies": {
-    "@vssue/api-github-v3": "^1.4.3",
+    "@vssue/api-github-v3": "^1.4.7",
     "@vssue/vuepress-plugin-vssue": "^1.4.3",
     "ant-design-vue": "^1.6.3",
     "core-js": "^2.6.11",
